@@ -1,3 +1,3 @@
 # Primul commit
 
-Acesta este primul commit.
+Acesta este primul commit
